@@ -7,7 +7,7 @@ about:
   head: 63c23e9
   archived: false
   latestVersion: v0.4.0-devel3
-  collectedAt: 2026-09-04T19:33:55Z
+  collectedAt: 2026-09-04T20:57:19Z
 timeline:
   created: 2015-08-14
   lastCommit: 2026-08-18
@@ -18,7 +18,7 @@ popularity:
   fork: 144
   release: 18
   contributor: 22
-  pullRequest: 27
+  pullRequest: 31
   issue: 576
 language:
   Shell: 3309460
@@ -36,7 +36,7 @@ recent:
     since: 2026-08-05
     release: 0
     mergedPR: 0
-    openPR: 0
+    openPR: 4
     closedIssue: 3
     openIssue: 3
     commit: 4
@@ -44,7 +44,7 @@ recent:
     since: 2026-07-06
     release: 0
     mergedPR: 0
-    openPR: 0
+    openPR: 4
     closedIssue: 4
     openIssue: 6
     commit: 11
@@ -52,7 +52,7 @@ recent:
     since: 2026-06-06
     release: 0
     mergedPR: 0
-    openPR: 0
+    openPR: 4
     closedIssue: 8
     openIssue: 10
     commit: 17
@@ -60,7 +60,7 @@ recent:
     since: 2026-03-08
     release: 0
     mergedPR: 1
-    openPR: 1
+    openPR: 5
     closedIssue: 14
     openIssue: 19
     commit: 28
@@ -68,7 +68,7 @@ recent:
     since: 2025-09-09
     release: 0
     mergedPR: 1
-    openPR: 1
+    openPR: 5
     closedIssue: 48
     openIssue: 28
     commit: 44
@@ -76,18 +76,101 @@ recent:
     since: 2024-09-14
     release: 0
     mergedPR: 6
-    openPR: 1
+    openPR: 5
     closedIssue: 122
     openIssue: 46
     commit: 151
 total:
   release: 18
   mergedPR: 21
-  openPR: 1
+  openPR: 5
   closedIssue: 492
   openIssue: 84
   commit: 2344
 ---
+path: /home/runner/.x-repo/github.com/akinomyoga/ble.sh
+collectedAt: 2026-09-04T20:57:25Z
+loc:
+  Sh:
+    code: 66312
+    comments: 13741
+    blanks: 6945
+    files: 144
+  Puppet:
+    code: 2562
+    comments: 514
+    blanks: 267
+    files: 1
+  AWK:
+    code: 1337
+    comments: 183
+    blanks: 151
+    files: 1
+  Cpp:
+    code: 750
+    comments: 184
+    blanks: 94
+    files: 3
+  Toml:
+    code: 493
+    comments: 8
+    blanks: 146
+    files: 4
+  Html:
+    code: 379
+    comments: 80
+    blanks: 22
+    files: 1
+  C:
+    code: 186
+    comments: 6
+    blanks: 26
+    files: 5
+  ModuleDef:
+    code: 148
+    comments: 0
+    blanks: 13
+    files: 1
+  Bash:
+    code: 87
+    comments: 35
+    blanks: 23
+    files: 4
+  JavaScript:
+    code: 43
+    comments: 0
+    blanks: 9
+    files: 1
+  VimScript:
+    code: 27
+    comments: 2
+    blanks: 1
+    files: 1
+  Makefile:
+    code: 20
+    comments: 1
+    blanks: 8
+    files: 1
+  Ksh:
+    code: 0
+    comments: 3
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 4967
+    blanks: 876
+    files: 7
+  Text:
+    code: 0
+    comments: 86935
+    blanks: 23078
+    files: 9
+total:
+  code: 72764
+  comments: 106808
+  blanks: 31767
+  files: 184
 ---
 date: "2026-08-24"
 repo:
